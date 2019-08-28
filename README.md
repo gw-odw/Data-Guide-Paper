@@ -1,9 +1,9 @@
 # Data-Guide-Paper
-Code to produce key figures in the paper "Guide to  LIGO-Virgo detector noise and extraction of transient gravitational wave signals"
+Codes used in the paper "Guide to  LIGO-Virgo detector noise and extraction of transient gravitational wave signals"
 
-These codes and scripts make Figures 2, 3, 4, 5, 6, 7, 8, 9, 13, 14, 16, 17, 18, 19 of the data guide paper.
+The codes and scripts in this repository make Figures 2, 3, 4, 5, 6, 7, 8, 9, 13, 14, 16, 17, 18, 19 of the data guide paper.
 
-There is one maser script called dataguide.sh that compiles and runs all the codes and plotting scripts. Simply type
+There is one maser script called dataguide.sh that compiles and runs all the codes and plotting scripts. Assuming that you have the gcc compiler and gnuplot installed you can simply type
 
 source dataguide.sh
 
